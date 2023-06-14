@@ -1,0 +1,47 @@
+html 
+body{
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  background-color: #dce7fe;
+   font-family: 'Shadows Into Light', cursive;
+   text-align: left;
+}
+img{
+  width: 250px;
+  height: 200px;
+  border: #273a4e solid 10px;
+  
+}
+nav {
+  background-color: #1c2d40;
+  padding: 10px;
+}
+nav a{
+  color: #fafafa;
+  margin-right: 30px;
+  font-family: 'Shadows Into Light', cursive;
+}
+ul{
+  border: 150px 150px 150px 150px;
+  background-color: white;
+list-style-type:square;
+}
+p{
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+  background-color: white;
+}
+h2{
+  border: 10px #242e4c;
+}
+a{
+  color: #1d263a
+}
+title{
+  font-family: 'Shadows Into Light', cursive;
+}
